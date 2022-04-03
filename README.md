@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tahajalilian
+- 👀 I’m interested in Machine learning
+- 🌱 I’m currently learning python
